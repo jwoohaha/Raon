@@ -1,26 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Raon&fontSize=180)
-
 # 라온
 
-### "즐거운"이라는 뜻의 우리말
+> "즐거운"이라는 뜻의 우리말
 
 <br/>
 
-# 👨‍👩‍👦‍👦 팀원 역할 및 소개
-
-| Frontend | 역할 | 담당             |
-| -------- | ---- | ---------------- |
-| 정준혁   | 팀장 | 페이지 구성, API 연결 |
-| 서인덕   | FE-Leader | 전역 데이터 흐름 제어 |
-
-| Backend | 역할 | 담당             |
-| ------- | ---- | ---------------- |
-| 고재원  | BE-Leader | Web Socket 멀티 플레이 |
-| 박영서  | Full Stack | Web Socket 멀티 플레이, 퀴즈 랭킹 조회 |
-| 하재우  | Backend | Spring Security + JWT |
-| 김태현  | Backend/Infra | 퀴즈 랭킹 조회, 사용자 정보 입력 및 학교 검색 |
-
-## 🇰🇷 서비스 개요
+## 서비스 개요
 
 > 어린이를 위한 국어 능력 증진 프로그램
 
@@ -28,19 +12,21 @@
 
 ## ✨ 핵심 기능
 
-> ### 🌈 맞춤법 놀이 <br/>
->
+### 🌈 맞춤법 놀이 <br/>
+
 > **`평소에 몰랐거나 햇갈리던 맞춤법을 퀴즈로 재미있게!`** <br/>
 
-> ### ❄ 국어사전 놀이 <br/>
->
-> **`단어의 의미를 퀴즈를 통해 재미있게 배울 수 있어요!`** <br/> > **`동서남북 퀴즈를 하며 사고력을 길러요!`**
+### ❄ 국어사전 놀이 <br/>
 
-> ### ⭐ 순위 <br/>
->
-> **`전국에서 혹은 교내에서 내가 몇등인지 확인해요!`** <br/> > **`친구들과 함께하며 즐겨요!`**
+> **`단어의 의미를 퀴즈를 통해 재미있게 배울 수 있어요!`** 
+> **`동서남북 퀴즈를 하며 사고력을 길러요!`**
 
-> ### 🏗 인프라 구조 <br/>
+### ⭐ 순위 <br/>
+
+> **`전국에서 혹은 교내에서 내가 몇등인지 확인해요!`** 
+> **`친구들과 함께하며 즐겨요!`**
+
+### 🏗 인프라 구조 <br/>
 >
 > ![Untitled](./exec/images/infraStructure.png)
 
@@ -107,10 +93,10 @@
     </tr>
     <tr align="center">
         <td>
-            ![스플래시](./exec/images/splash.png)
+            <img src="./exec/images/splash.png" alt="스플래시">
         </td>
         <td>
-            ![메인페이지](./exec/images/main.png)
+            <img src="./exec/images/main.png" alt="메인페이지">
         </td>
     </tr>
 </table>
@@ -131,13 +117,13 @@
     </tr>
     <tr align="center">
         <td>
-            ![문제풀기](./exec/images/spelling1.png)
+            <img src="./exec/images/spelling1.png" alt="문제풀기">
         </td>
         <td>
-            ![정답여부확인](./exec/images/spelling2.png)
+            <img src="./exec/images/spelling2.png" alt="정답여부확인">
         </td>
         <td>
-            ![최종점수확인](./exec/images/spelling3.png)
+            <img src="./exec/images/spelling3.png" alt="최종점수확인">
         </td>
     </tr>
 </table>
@@ -156,13 +142,13 @@
     </tr>
     <tr align="center">
         <td>
-            ![모드선택](./exec/images/dictionary1.png)
+            <img src="./exec/images/dictionary1.png" alt="모드선택">
         </td>
         <td>
-            ![사전퀴즈](./exec/images/dictionary2.png)
+            <img src="./exec/images/dictionary2.png" alt="사전퀴즈">
         </td>
         <td>
-            ![동서남북퀴즈](./exec/images/dictionary3.png)
+            <img src="./exec/images/dictionary3.png" alt="동서남북퀴즈">
         </td>
     </tr>
 </table>
@@ -182,16 +168,16 @@
     </tr>
     <tr align="center">
         <td>
-            ![방 생성](./exec/images/multi1.png)
+            <img src="./exec/images/multi1.png" alt="방 생성">
         </td>
         <td>
-            ![대기 방](./exec/images/multi2.png)
+            <img src="./exec/images/multi2.png" alt="대기 방">
         </td>
         <td>
-            ![중간 결과](./exec/images/multi3.png)
+            <img src="./exec/images/multi3.png" alt="중간 결과">
         </td>
         <td>
-            ![최종 결과](./exec/images/multi4.png)
+            <img src="./exec/images/multi4.png" alt="최종 결과">
         </td>
     </tr>
 </table>
@@ -207,10 +193,24 @@
     </tr>
     <tr align="center">
         <td>
-            ![순위](./exec/images/rank.png)
+            <img src="./exec/images/rank.png" alt="순위">
         </td>
         <td>
-            ![내 정보](./exec/images/mypage.png)
+            <img src="./exec/images/mypage.png" alt="내 정보">
         </td>
     </tr>
 </table>
+
+## 👨‍👩‍👦‍👦 팀원 역할 및 소개
+
+| Frontend | 역할 | 담당             |
+| -------- | ---- | ---------------- |
+| 정준혁   | 팀장 | 페이지 구성, API 연결 |
+| 서인덕   | FE-Leader | 전역 데이터 흐름 제어 |
+
+| Backend | 역할 | 담당             |
+| ------- | ---- | ---------------- |
+| 고재원  | BE-Leader | Web Socket 멀티 플레이 |
+| 박영서  | Full Stack | Web Socket 멀티 플레이, 퀴즈 랭킹 조회 |
+| 하재우  | Backend | Spring Security + JWT |
+| 김태현  | Backend/Infra | 퀴즈 랭킹 조회, 사용자 정보 입력 및 학교 검색 |
